@@ -1,0 +1,7 @@
+<resources>
+    <!-- list -->
+    <integer name="list_column_count">3</integer>
+    <dimen name="margin_logo_image">150dp</dimen>
+    <dimen name="margin_side_content">75dp</dimen>
+    <dimen name="margin_top_content">-75dp</dimen>
+</resources>
